@@ -504,3 +504,9 @@ The application handles several common failure cases:
 - LLM/retrieval errors
 
 Skipped files and their reasons are displayed in the processing log.
+
+---
+
+## License
+
+This project is intended for educational and research purposes.
